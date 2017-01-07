@@ -1,0 +1,16 @@
+Q 10/03 7 10 Quiz 1
+H 09/12 10 10 Homework 2 Game Programs
+L 08/23 9 10 Lab 01 I/O and Strings
+L 08/16 10 10 Lab 02
+L 08/17 10 10 Lab 02ws
+L 08/18 10 10 Lab 03
+L 08/19 8 10 Lab 04 
+L 08/20 10 10 Lab 05 
+L 08/21 10 10 Lab 06
+L 09/12 5 10 Lab 07
+L 10/12 10 10 Lab 08
+L 11/12 10 10 Lab 10
+H 08/22 10 10 Homework 1 Syllabus
+T 10/03 79 100 Exam 1
+P 10/03 100 100 Project 1
+
